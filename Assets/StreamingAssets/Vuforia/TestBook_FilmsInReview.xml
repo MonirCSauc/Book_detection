@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="page3" size="0.150000 0.207857" />
+    <ImageTarget name="page2" size="0.150000 0.208979" />
+    <ImageTarget name="page1" size="0.150000 0.201834" />
+  </Tracking>
+</QCARConfig>

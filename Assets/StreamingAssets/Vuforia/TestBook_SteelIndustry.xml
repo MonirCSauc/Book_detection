@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="titlepage" size="0.150000 0.244275" />
+    <ImageTarget name="steelmanufacturing_coverpage" size="0.150000 0.228571" />
+  </Tracking>
+</QCARConfig>
